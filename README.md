@@ -17,6 +17,29 @@ hall tickets for the applicants. After successful generation of hall tickets, th
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
 
+USECASES DIAGRAM:
+
+<img width="489" height="447" alt="image" src="https://github.com/user-attachments/assets/49bc898f-ba1a-4eef-b183-44974c9df824" />
+
+CLASS DIAGRAM:
+
+<img width="510" height="378" alt="image" src="https://github.com/user-attachments/assets/63c4784c-9313-45d7-9562-03d45d3d2bad" />
+
+SEQUENCE DIAGRAM:
+
+<img width="467" height="480" alt="image" src="https://github.com/user-attachments/assets/bdf78cd5-1186-45e6-8c83-460a078fc8c5" />
+
+COMMUNICATION DIAGRAM:
+
+<img width="504" height="245" alt="image" src="https://github.com/user-attachments/assets/56e66632-78b5-4333-93bc-b4b6803c8008" />
+
+STATE DIAGRAM:
+
+<img width="492" height="427" alt="image" src="https://github.com/user-attachments/assets/8ebb040b-56a9-4792-995a-17ccf56c3ca3" />
+
+PACKAGE DIAGRAM:
+
+<img width="495" height="307" alt="image" src="https://github.com/user-attachments/assets/4fd0caf1-a700-43d1-8dfa-6bbd2a2f219e" />
 
 
 ### RESULT:
